@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+
+#body {
+    background-color: #071E3D;
+}
+
+.titel {
+
+    color: aliceblue;
+    font-family:Playwrite England SemiJoined;
+    font-size: 50px;
+    
+    
+}
+.titel2 {
+
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+   
+    
+    
+}
+.titel3 {
+
+    color: aliceblue;
+    font-size: 20px;
+    font-family: PT Serif Static;
+    font-size: 50px;
+}
+
+
+#flagimage{
+
+    margin: 20px;
+    margin-bottom: 30px;
+    
+}
+
+#button{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #21E6C1;
+   
+
+
+}
+video{
+    margin-top: 30px;
+    width:90%;
+    margin-bottom: 150px;
+
+}
+#img{
+
+
+width: 330px;
+height: 300px;
+border-radius: 10px;
+margin: 10px;
+
+}
+#page2titel{
+color: aliceblue;
+font-size: 80px;
+font-family:Henny Penny ;
+
+}
+.page2titel {
+
+    color: aliceblue;
+    font-family:Playwrite England SemiJoined;
+    font-size: 50px;
+    margin-top: 150px;
+}
+
+.box{
+    background-color:#278EA5 ;
+    width: 350px;
+    height: 180px;
+    padding: 10px;
+    margin-top: 50px;
+    
+}
+.boxtext{
+    color: aliceblue;
+    
+}
+.imagetext{
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 400px;
+    
+}
+.imagetext2{
+    color: aliceblue;
+    font-size: 10px;
+    margin: 10px;
+}
+.img2{
+    margin-top: 200px;
+    width:600px ;
+    height: 500px;
+    margin-bottom: 200px;
+    border-radius: 20px;
+  
+}
+
+
+.footertext{
+ 
+color: aliceblue;
+font-size: 20px;
+text-align: start;
+margin-top: 250px;
+
+
+
+}
+
+.footertext2{
+    color: aliceblue;
+    font-size:15px;
+    text-align: start;
+    margin-top: 50px;
+    
+   
+   
+}
+
+.footertext3{
+    color: aliceblue;
+    font-size: 15px;
+    text-align: start;
+    margin-top: 250px;
+    
+        
+   
+}
+.space{
+    margin-bottom: 30px;
+  
+}
+
+#hr{
+    color: aliceblue;
+    
+    margin-top: 100px;
+    margin-bottom: 20px;
+    
+}
+.end{
+    font-size: medium;
+    color: aliceblue;
+    text-align: start;
+    margin-bottom: 50px;
+}
+.end2{
+    font-size: medium;
+    color: aliceblue;
+    text-align: right;
+}
+
+.icon{
+    width: 30px;
+    align-items: start;
+   margin-right: 10px;
+   margin-bottom: 20px;
+   
+}
+
+
